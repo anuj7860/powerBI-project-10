@@ -52,3 +52,8 @@ This table seems to contain measures or calculated metrics, with columns like 'C
 
 ![Screenshot 2024-09-14 134651](https://github.com/user-attachments/assets/e9ffc54d-1a8d-426e-9687-3c77e22b57e7)
 
+# MP4 Fromat :
+
+https://www.linkedin.com/posts/anuj-yadav-3477162b2_cricketanalytics-powerbi-viratkohli-activity-7173324212114239488-rt-_?utm_source=share&utm_medium=member_desktop
+
+https://www.linkedin.com/posts/anuj-yadav-3477162b2_cricketanalytics-powerbi-viratkohli-activity-7173324212114239488-rt-_?utm_source=share&utm_medium=member_desktop
