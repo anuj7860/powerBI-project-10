@@ -1,0 +1,24 @@
+Calender = CALENDAR(
+        DATE ( YEAR ( MIN(Virat_Kohli[date]) ),1,1), 
+        DATE(YEAR(MAX(Virat_Kohli[date])),12,31)
+
+HighestScore = MAX(Virat_Kohli[runs])
+50s = SUM(Virat_Kohli[50s]
+30+ = SUM(Virat_Kohli[30+])
+100s = SUM(Virat_Kohli[100s])
+
+100s = 
+VAR res = SWITCH(TRUE(),
+    'Virat_Kohli'[runs]>=100 && 'Virat_Kohli'[runs]<200, 1,
+    'Virat_Kohli'[runs]>=200 && 'Virat_Kohli'[runs]<300, 2,
+    'Virat_Kohli'[runs]>=300 && 'Virat_Kohli'[runs]<400, 3,
+    0)
+RETURN res
+
+50s = 
+VAR res = SWITCH(TRUE(),
+    'Virat_Kohli'[runs]>=50 && 'Virat_Kohli'[runs]<99, 1,
+    'Virat_Kohli'[runs]>=150 && 'Virat_Kohli'[runs]<199, 1,
+    'Virat_Kohli'[runs]>=250 && 'Virat_Kohli'[runs]<299, 1,
+    0)
+RETURN res
